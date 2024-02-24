@@ -53,6 +53,10 @@ A diretora Ana:
 
 Lembro do meu primeiro dia na Philips, quem recebeu meus documentos de RH, quem me apresentou às instações da Philips e fez a minha integração foi a [Tauana Eloá Dias](https://www.linkedin.com/in/tauana-elo%C3%A1-dias-86547210b/).
 
+A Tauana:
+
+<img src="./images/philips/tauana.png" style="width:300px;"/>
+
 💡 [Conheça o podcast da Tauana: Amigaterapia](https://www.youtube.com/@AmigaterapiaPodcast)
 
 ## O que é o Tasy
