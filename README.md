@@ -61,15 +61,53 @@ A Tauana:
 
 ## O que é o Tasy
 
+O Tasy é um ERP (Sistema integrado de gestão empresarial) para hospitais.
+
+💡 [Mais sobre o Tasy](https://www.philips.com.br/c-dam/b2bhc/br/resource-catalog/landing/tasy_category/folder-tasy-prestador-br.pdf)
+
 ## CPOE: Primeiro projeto
 
-### Rafael Caldas
+A CPOE (Computerized Physician Order Entry) é uma função do Tasy onde o médico faz as prescrições para um paciente.
 
-### Daniel Galvan
+O projeto da CPOE se tratava de uma migração das tecnologias Java Swing Desktop, Delphi Desktop e GWT para a tecnologia Tasy Web HTML5.
 
-### Susan Braun Rosa
+A CPOE (fonte: Internet)
+
+<img src="./images/tasy/cpoe.png"/>
+
+💡 [Mais sobre uma CPOE](https://en.wikipedia.org/wiki/Computerized_physician_order_entry)
+
+💡 [GWT - Google Web Toolkit](https://pt.wikipedia.org/wiki/Google_Web_Toolkit)
+
+O meu gerente na época era o [Rafael Caldas](https://www.linkedin.com/in/rafael-caldas-84024a47/), ele foi responsável também pela localização de vários países da América do Sul e Central.
+
+O Rafael:
+
+<img src="./images/philips/rafael.png" style="width:300px;"/>
+
+### Padrinho
+
+Todos os programadores iniciantes novos são acompanhados por um "padrinho" ou "madrinha".
+
+O meu padrinho era o [Daniel Galvan](https://www.linkedin.com/in/daniel-galvan1989/), ele me apresentou o Tasy, me ensinou boas práticas de desenvolvimento e me auxiliou por uns 3 meses, assim não tive tanta dificuldade de trabalhar no sistema.
+
+O Daniel:
+
+<img src="./images/philips/daniel.png" style="width:300px;"/>
+
+### Primeira analista de sistema que conheci
+
+A [Susan Braun Rosa](https://www.linkedin.com/in/susan-braun-rosa-49375279/) foi a primeira analista de sistema com quem trabalhei, ela possuia muitos conhecimentos de negócio e conhecimentos técnicos. Aprendi muito sobre Java e análise de requisitos com ela.
+
+<img src="./images/philips/susan.jpg" style="width:300px;"/>
+
+💡 [Análise de sistemas](https://pt.wikipedia.org/wiki/An%C3%A1lise_de_sistemas)
 
 ## Migrações: Segundo projeto
+
+Trabalhei em um grande projeto de migração do Sistema Tasy, migrei muitas funções de várias áreas do sistema, incluido contabilidade e administração de medicamentos.
+
+💡 [Mais sobre o projeto HTML5](https://images.philips.com/is/content/PhilipsConsumer/Campaigns/HC20140401_DG/Documents/it-magazine-8.pdf)
 
 ## Localização Alemanha
 
