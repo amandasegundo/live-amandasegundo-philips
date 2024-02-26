@@ -61,7 +61,7 @@ A Tauana:
 
 ## O que é o Tasy
 
-O Tasy é um ERP (Sistema integrado de gestão empresarial) para hospitais.
+O Tasy é um ERP (Sistema Integrado de Gestão Empresarial) para hospitais.
 
 💡 [Mais sobre o Tasy](https://www.philips.com.br/c-dam/b2bhc/br/resource-catalog/landing/tasy_category/folder-tasy-prestador-br.pdf)
 
@@ -79,7 +79,7 @@ A CPOE (fonte: Internet)
 
 💡 [GWT - Google Web Toolkit](https://pt.wikipedia.org/wiki/Google_Web_Toolkit)
 
-O meu gerente na época era o [Rafael Caldas](https://www.linkedin.com/in/rafael-caldas-84024a47/), ele foi responsável também pela localização de vários países da América do Sul e Central.
+O meu gerente na época era o [Rafael Caldas](https://www.linkedin.com/in/rafael-caldas-84024a47/), ele foi responsável também por gerenciar as localizações do Tasy em vários países da América do Sul e Central.
 
 O Rafael:
 
@@ -87,9 +87,9 @@ O Rafael:
 
 ### Padrinho
 
-Todos os programadores iniciantes novos são acompanhados por um "padrinho" ou "madrinha".
+Todos os programadores iniciantes são acompanhados por um "padrinho" ou "madrinha".
 
-O meu padrinho era o [Daniel Galvan](https://www.linkedin.com/in/daniel-galvan1989/), ele me apresentou o Tasy, me ensinou boas práticas de desenvolvimento e me auxiliou por uns 3 meses, assim não tive tanta dificuldade de trabalhar no sistema.
+O meu padrinho era o [Daniel Galvan](https://www.linkedin.com/in/daniel-galvan1989/), ele me apresentou o Tasy, me ensinou boas práticas de desenvolvimento e me auxiliou por uns 3 meses, assim não tive tanta dificuldade em trabalhar no sistema.
 
 O Daniel:
 
