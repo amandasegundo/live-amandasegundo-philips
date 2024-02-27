@@ -221,5 +221,11 @@ Bandeira da Austria:
 
 ## Localização Japão
 
+Trabalhei na Localização do Japão por alguns meses, muito desafiador, porque não apenas o idioma era uma barreira, mas também o fuso-horário. Neste projeto eu apenas analisava requisitos.
+
+Bandeira do Japão:
+
+<img src="./images/bandeiras/japao.jpg" style="width:300px;"/>
+
 ## Multiplicadora da Qualidade
 
