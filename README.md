@@ -229,6 +229,18 @@ Bandeira do Japão:
 
 ## Centro de Comando para COVID-19
 
+Trabalhei em uma demanda do Centro de Comando para a COVID-19 para o nosso país Brasil, conhecido como PFCS - Patient Flow Capacity Suite, fiz a manutenção de alguns gráficos.
+
+Este sistema exibia indicadores importantes para a tomada de decisão a curto prazo durante a pandemia. Havia informações sobre a quantidade de leitos e respirados, informações sobre transferências e admissões de passientes.
+
+Este projeto foi liderado pelo [Anderson May Ramos](https://www.linkedin.com/in/am-ramos/).
+
+Prêmios que o PFCS ganhou:
+
+- [DMI:Design Value Award](https://www.dmi.org/page/20202DVAPhilipsED)
+- [IF Design Award 2021](https://ifdesign.com/en/winner-ranking/project/patient-flow-capacity-suite-command-center/301004)
+- [RedDot Winner 2021](https://www.red-dot.org/project/patient-flow-capacity-suite-55392)
+
 ## Líder de Desenvolvimento
 
 ## Multiplicadora da Qualidade
