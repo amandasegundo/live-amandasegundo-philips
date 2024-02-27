@@ -65,7 +65,7 @@ O Tasy é um ERP (Sistema Integrado de Gestão Empresarial) para hospitais.
 
 💡 [Mais sobre o Tasy](https://www.philips.com.br/c-dam/b2bhc/br/resource-catalog/landing/tasy_category/folder-tasy-prestador-br.pdf)
 
-## CPOE: Primeiro projeto
+## CPOE: O primeiro projeto
 
 A CPOE (Computerized Physician Order Entry) é uma função do Tasy onde o médico faz as prescrições para um paciente.
 
@@ -103,17 +103,29 @@ A [Susan Braun Rosa](https://www.linkedin.com/in/susan-braun-rosa-49375279/) foi
 
 💡 [Análise de sistemas](https://pt.wikipedia.org/wiki/An%C3%A1lise_de_sistemas)
 
-## Migrações: Segundo projeto
+## HTML5: O segundo projeto
 
-Trabalhei em um grande projeto de migração do Sistema Tasy, migrei muitas funções de várias áreas do sistema, incluido contabilidade e administração de medicamentos.
+O projeto HTML5 se tratava de outra migração do Tasy, tecnologias Java Swing e Delphi para Web HTML5, foi um projeto bem grande e havia muitos programadores e analistas de sistemas envolvidos.
+
+Migrei muitas funções de várias áreas do sistema, incluido contabilidade e administração de medicamentos.
 
 💡 [Mais sobre o projeto HTML5](https://images.philips.com/is/content/PhilipsConsumer/Campaigns/HC20140401_DG/Documents/it-magazine-8.pdf)
 
-## Localização Alemanha
+## Alemanha: Primeira localização
 
-### Pedro Andrade
+Antes de entrar em detalhes, é necessário saber o que é uma internacionalização e localização de um sistema de Software: são processos de desenvolvimento ou adapção de um software para atender o idioma, cultura e legislação de um país.
 
-### Funções marcantes do Tasy
+💡 [Internacionalização (informática)](https://pt.wikipedia.org/wiki/Internacionaliza%C3%A7%C3%A3o_(inform%C3%A1tica))
+
+Assim que o projeto HTML5 terminou eu fui selecionada para trabalhar no projeto de Localização da Alemanha, muitas funções precisaram ser adptadas ao mercado alemão e outras deveriam ser criadas.
+
+Meu gestor era o Pedro Andrade, ele também cuidou das localizações da Austria e Arábia Saudita. O Pedro era o tipo de gestor que ajudava você até depurarando um código.
+
+O Pedro:
+
+<img src="./images/philips/pedro.png" style="width:300px;"/>
+
+### Funções marcantes
 
 #### PEP
 
