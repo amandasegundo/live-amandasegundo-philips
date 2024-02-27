@@ -125,6 +125,10 @@ O Pedro:
 
 <img src="./images/philips/pedro.png" style="width:300px;"/>
 
+Bandeira da Alemanha:
+
+<img src="./images/bandeiras/alemanha.png" style="width:300px;"/>
+
 ### Funções marcantes
 
 #### PEP
