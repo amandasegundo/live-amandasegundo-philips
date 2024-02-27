@@ -241,6 +241,14 @@ Prêmios que o PFCS ganhou:
 - [IF Design Award 2021](https://ifdesign.com/en/winner-ranking/project/patient-flow-capacity-suite-command-center/301004)
 - [RedDot Winner 2021](https://www.red-dot.org/project/patient-flow-capacity-suite-55392)
 
+O Anderson:
+
+<img src="./images/philips/anderson.jpg" style="width:300px;"/>
+
+Bandeira do Brasil:
+
+<img src="./images/bandeiras/brasil.png" style="width:300px;"/>
+
 ## Líder de Desenvolvimento
 
 ## Multiplicadora da Qualidade
