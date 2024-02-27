@@ -119,7 +119,7 @@ Antes de entrar em detalhes, é necessário saber o que é uma internacionaliza�
 
 Assim que o projeto HTML5 terminou eu fui selecionada para trabalhar no projeto de Localização da Alemanha, muitas funções precisaram ser adptadas ao mercado alemão e outras deveriam ser criadas.
 
-Meu gestor era o Pedro Andrade, ele também cuidou das localizações da Austria e Arábia Saudita. O Pedro era o tipo de gestor que ajudava você até depurarando um código.
+Meu gestor era o Pedro Andrade, ele também cuidou das localizações da Austria e Arábia Saudita e também era o DPO (Data Protection Officer). O Pedro era o tipo de gestor que ajudava você até depurarando um código.
 
 O Pedro:
 
