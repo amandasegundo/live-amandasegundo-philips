@@ -227,5 +227,9 @@ Bandeira do Japão:
 
 <img src="./images/bandeiras/japao.jpg" style="width:300px;"/>
 
+## Centro de Comando para COVID-19
+
+## Líder de Desenvolvimento
+
 ## Multiplicadora da Qualidade
 
