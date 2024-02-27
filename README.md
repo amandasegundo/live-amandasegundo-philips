@@ -65,6 +65,8 @@ O Tasy é um ERP (Sistema Integrado de Gestão Empresarial) para hospitais.
 
 💡 [Mais sobre o Tasy](https://www.philips.com.br/c-dam/b2bhc/br/resource-catalog/landing/tasy_category/folder-tasy-prestador-br.pdf)
 
+💡 [Portfólio e Inovações Tasy](https://www.philips.com/c-dam/b2bhc/br/about/health_innovation_summit/Portfolio_e_Inovacoes_Tasy.pdf)
+
 ## CPOE: O primeiro projeto
 
 A CPOE (Computerized Physician Order Entry) é uma função do Tasy onde o médico faz as prescrições para um paciente.
@@ -131,15 +133,37 @@ Bandeira da Alemanha:
 
 ### Funções marcantes
 
+Das muitas funções no qual que trabalhei algumas se destacam e vou falar um pouco delas abaixo:
+
 #### PEP
+
+O PEP é o Prontuário Eletrônico do Paciente, uma árvore é o componente central desta função. Trabalhei muito nas abas de Procedimentos e Diagnósticos.
+
+💡 [O prontuário eletrônico Philips EMR Tasy ganha o prêmio "Best in KLAS"](https://www.philips.com.br/a-w/about/news/archive/standard/news/press/2023/20230301-philips-emr-tasy-electronic-medical-record-wins-best-in-klas-award.html)
 
 #### Agendas
 
+As agendas eram responsáveis por fazer a macação de exames e consultas, mas eu gostava (e tinha um pouco de medo também) era da Agenda Integrada, achava muito bonita, mas como não sou muito boa no front-end, eu preferia o back-end dela.
+
 #### Panorâma Clínico
+
+Sem dúvida umas das funções mais bonitas em questão de design, ela é responsável por mostrar os leitos e o status de cada um, além de apresentar alertas. 
+
+💡 [Saiba mais sobre o Panorâma Clínico - Página 38](https://images.philips.com/is/content/PhilipsConsumer/HealthCare/Flipbooks/revistait_healthcare_20.pdf)
 
 ### Design do Tasy
 
-####  Caio Badu Nishihara de Albuquerque
+Trabalhar com uma especificação do Design é muito interessante, é um verdadeiro guia, às vezes não tem como atender o Design 100%, mas nos esforçamos para deixar o front-end o mais parecido possível.
+
+Além de admirar o Design do Tasy, eu gostava da forma que ele era documentado, e foi por causa disso que eu comecei a gostar mais de documentar.
+
+Um dos responsáveis pelo Desgin era o [Caio Badu Nishihara de Albuquerque](https://www.linkedin.com/in/caiowhyle/):
+
+<img src="./images/philips/caio.png" style="width:300px;"/>
+
+💡 [Tasy é premiado no “Oscar” do design](https://www.philips.com.br/a-w/about/news/archive/standard/news/press/2018/20180310-tasy-e-premiado-no-oscar-do-design.html)
+
+💡 [IF Design Award 2018](https://ifdesign.com/en/winner-ranking/project/tasy/230118)
 
 ### eGK: O cartão do "SUS" alemão
 
