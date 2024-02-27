@@ -133,7 +133,7 @@ Bandeira da Alemanha:
 
 ### Funções marcantes
 
-Das muitas funções no qual que trabalhei algumas se destacam e vou falar um pouco delas abaixo:
+Das muitas funções nas quais que trabalhei algumas se destacam e vou falar um pouco delas abaixo:
 
 #### PEP
 
@@ -167,13 +167,41 @@ Um dos responsáveis pelo Desgin era o [Caio Badu Nishihara de Albuquerque](http
 
 ### eGK: O cartão do "SUS" alemão
 
-#### Thomas Brian Schulz
+O eGK (Elektronische Gesundheitskarte ou Cartão de Saúde Eletrônico) é o cartão responsável pela entrada do paciente no hospital, assim como temos o cartão do SUS aqui no Brasil.
 
-#### Ricardo Pereira dos Santos
+Este foi o projeto mais desafiador, se tratava de uma integração de um cartão-inteligente com uma máquina leitora e também o envio dos dados à rede do governo alemão (Telematik).
 
-### Trabalhando com colegas indianos
+Eu fui responsável por desenvolver a integração e assinei um documento que foi enviado ao governo alemão, o governo aprovou e assim a Philips ganhou uma certificação para atuar no país.
 
-### Outras Localizações
+💡 [Wiki do eGK](https://de.wikipedia.org/wiki/Elektronische_Gesundheitskarte)
+
+💡  [Mais sobre o que é o eGK](https://gesund.bund.de/en/the-electronic-medical-data-card#at-a-glance)
+
+💡  [Sobre a rede do governo alemão Telematik](https://www.gematik.de/telematikinfrastruktur)
+
+#### Possível viagem para a Alemanha
+
+Meu coordenador [Thomas Brian Schulz](https://www.linkedin.com/in/thomas-brian-schulz-01104a63/) havia pedido para eu ia na Alemanha acompanhar a virada do sistema, mas eu não me sentia sugurar por causa do meu Inglês, mesmo que outro dev mais fluente fosse me acompanhar.
+
+O Thomas:
+
+<img src="./images/philips/thomas.png" style="width:300px;"/>
+
+O desenvolvedor que foi na Alemanha foi o [Ricardo Pereira dos Santos](https://www.linkedin.com/in/ricardo-pereira-dos-santos-b8521475/), ele me ajudou a testar a integração à distância, enquanto lá eram 8h da manhã para mim eram 4h da manhã. Além disso, ele atravessou o Atlântico para configurar impressoras XD.
+
+O Ricardo: 
+
+<img src="./images/philips/ricardo.png" style="width:300px;"/>
+
+## Trabalhando com indianos
+
+Em todos os projetos os indianos eram presentes, dividíamos as atividades com eles. É muito interessante o contato com outras culturas totalmente diferente da sua.
+
+Bandeira da Índia:
+
+<img src="./images/bandeiras/india.png" style="width:300px;"/>
+
+## Outras Localizações
 
 ## Localização Japão
 
