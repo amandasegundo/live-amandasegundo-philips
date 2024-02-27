@@ -203,6 +203,22 @@ Bandeira da Índia:
 
 ## Outras Localizações
 
+Eventualmente eu era "emprestada" para outras localizações, então atuei em demandas de desenvolvimento do México e da Arábia Saudita.
+
+Bandeira do México:
+
+<img src="./images/bandeiras/mexico.png" style="width:300px;"/>
+
+Bandeira da Arábia Saudita:
+
+<img src="./images/bandeiras/arabia.png" style="width:300px;"/>
+
+Fiz uma análise de requisito para o eCard da Austria, que é parecido com o eGK da Alemanha. O Ricardo viajou até a Austria e fez a integração lá.
+
+Bandeira da Austria:
+
+<img src="./images/bandeiras/austria.png" style="width:300px;"/>
+
 ## Localização Japão
 
 ## Multiplicadora da Qualidade
