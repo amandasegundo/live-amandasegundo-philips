@@ -4,6 +4,14 @@
 
 *Amanda Segundo*
 
+Eu no escritório da Philips em Blumenau:
+
+<img src="./images/philips/amanda-na-philips.jpeg" style="width:300px;"/>
+
+Eu em uma divulgação de vaga:
+
+<img src="./images/philips/amanda-na-divulgacao-de-vaga.jpeg" style="width:300px;"/>
+
 ## [Entra21](https://www.entra21.com.br/): a porta de entrada
 
 <img src="./images/entra-21/entra21.png" style="width:300px;"/>
