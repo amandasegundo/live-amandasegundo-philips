@@ -81,7 +81,7 @@ A CPOE (fonte: Internet)
 
 💡 [GWT - Google Web Toolkit](https://pt.wikipedia.org/wiki/Google_Web_Toolkit)
 
-O meu gerente na época era o [Rafael Caldas](https://www.linkedin.com/in/rafael-caldas-84024a47/), ele foi responsável também por gerenciar as localizações do Tasy em vários países da América do Sul e Central.
+O meu gerente na época era o [Rafael Caldas](https://www.linkedin.com/in/rafael-caldas-84024a47/), ele foi responsável também por gerenciar as localizações do Tasy em vários países da América do Sul e Central e Japão.
 
 O Rafael:
 
