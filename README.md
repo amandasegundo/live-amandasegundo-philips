@@ -251,5 +251,12 @@ Bandeira do Brasil:
 
 ## Líder de Desenvolvimento
 
+Depois que atingi o nível Sênior como desenvolvedora, me tornei líder. Eu liderava em torno de cinco desenvolvedores, orienta eles com as tarefas do dia a dia, ensinava boas práticas e fazia code review.
+
+Quando ocorria algum problema no ambiente produtivo eu atuava e tentava corrigir, caso contrário acionava algum desenvolvedor.
+
 ## Multiplicadora da Qualidade
 
+Uma multiplicadora da Qualidade é a mediadora entre o setor de Qualidade e Regulatório e o setor de Desenvolvimento de Software.
+
+Eu fazia a verificação e acompanhamento dos processos e treinamentos da Qualidade, definia e documentação do fluxo de trabalho e melhoras práticas (Instruções de Trabalho e Procedimentos Documentados).
