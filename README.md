@@ -189,7 +189,7 @@ Eu fui responsável por desenvolver a integração e assinei um documento que fo
 
 #### Possível viagem para a Alemanha
 
-Meu coordenador [Thomas Brian Schulz](https://www.linkedin.com/in/thomas-brian-schulz-01104a63/) havia pedido para eu ia na Alemanha acompanhar a virada do sistema, mas eu não me sentia sugurar por causa do meu Inglês, mesmo que outro dev mais fluente fosse me acompanhar.
+Meu coordenador [Thomas Brian Schulz](https://www.linkedin.com/in/thomas-brian-schulz-01104a63/) havia pedido para eu ia na Alemanha acompanhar a virada do sistema, mas eu não me sentia sugura por causa do meu Inglês, mesmo que outro dev mais fluente fosse me acompanhar.
 
 O Thomas:
 
